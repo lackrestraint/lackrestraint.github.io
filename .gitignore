@@ -5,3 +5,7 @@ Gemfile.lock
 .sass-cache
 *~
 .jekyll-cache
+vendor/
+
+.idea/
+.bundle/
